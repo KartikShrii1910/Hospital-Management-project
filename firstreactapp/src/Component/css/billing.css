@@ -1,0 +1,12 @@
+.billing{
+    background-image: url("../images/billing.jpg");
+  
+   
+    height: 550px;; 
+    width: 1000x;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
